@@ -1,4 +1,0 @@
-streamlit
-openpyxl
-requests
-pillow  # For image handling (added for safety in uploads)
